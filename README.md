@@ -1,3 +1,5 @@
+
+
 # Détection d'anomalies sur des vibrations (TinyML)
 
 > **Version 1 : simulation sur PC.** Le capteur est simulé par du code. La version 2 portera le même pipeline sur une carte ESP32 avec un vrai accéléromètre MPU6050.
