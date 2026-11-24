@@ -1,0 +1,6 @@
+data/
+model/
+signal_test.png
+__pycache__/
+*.pyc
+.venv/
